@@ -1,6 +1,6 @@
 """
 Script for retrieval of data from KEGG database through an API
-Author: Ewa Grabowiecka
+Author: Ewa 
 Date: 08/09/2017
 """
 

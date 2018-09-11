@@ -1,7 +1,7 @@
 """
 Script for retrieval of data from KEGG database via using
 the KEGG website
-Author: Ewa 
+Author: Ewa G
 Date: 08/09/2017
 """
 
