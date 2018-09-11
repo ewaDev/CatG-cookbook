@@ -1,6 +1,7 @@
 """
-Scrip for accessing the SignalP website, entering data and
+Script for scraping the SignalP website, entering data and
 retrieving results
+Author: Ewa G
 Date: 08/09/2017
 """
 

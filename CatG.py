@@ -1,5 +1,6 @@
 """
 Grahical User Interface for CatG - a mircoarray matching tool
+Author: Ewa G
 Date: 08/09/2017
 """
 

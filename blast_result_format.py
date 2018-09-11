@@ -1,6 +1,8 @@
 """
-Please note this is an old script and it was written in python 2.7
-It should still work with python 3.x
+Script for formating the blast results
+( from the original thesis)
+Author: Ewa G
+Date: 08/09/2017
 """
 
 from decimal import *

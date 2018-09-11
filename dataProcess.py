@@ -1,5 +1,6 @@
 """
-Script for matching database information to user files
+Script for matching formated database information to user files
+Author: Ewa
 Date: 08/09/2017
 """
 import os

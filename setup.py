@@ -1,5 +1,6 @@
 """
-Scrip for converting the catg.py script to an executable file
+Scrip for converting the CatG.py script to an executable
+Author: Ewa Grabowiecka
 Date: 08/09/2017
 """
 
